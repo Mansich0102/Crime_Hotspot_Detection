@@ -5,7 +5,7 @@ The objective of this project is to develop a machine learning model that accura
 The dataset includes various features , and these features are described below :
 |Sr.no|Features name|Description |
  |-|-|-|
-|1)|DR_NO|Division of Records Number: Official file number made up of a 2 digit year, area ID, and 5 digits |              
+|1)|DR_NO|Division of Records Number: Official file number made up of a 2 digit year, area ID, and 5 digits |             
 |2)| Date_Rptd|MM/DD/YYYY |             
 |3)|DATE_OCC|MM/DD/YYYY |             
 |4)|TIME_OCC|In 24 hour military time |         
