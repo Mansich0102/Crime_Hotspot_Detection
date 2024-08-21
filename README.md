@@ -47,7 +47,7 @@ The dataset includes various features , and these features are described below :
  7. Machine Learning :
     Develop and evaluate machine learning models
     i. K- means
-    Check the Silhouette Score for AcAccuracy 
+    Check the Silhouette Score for Accuracy 
 9. Cluster Analysis
     Visualize the data on the basis of clusters
    
